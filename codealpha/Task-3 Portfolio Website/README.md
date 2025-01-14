@@ -1,2 +1,2 @@
-# bharatintern-portfolio-website
-portfolio website task given by bharat intern
+# Code alpha-portfolio-website
+portfolio website task given by code alpha 
